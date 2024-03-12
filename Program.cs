@@ -15,7 +15,7 @@
             return X * X;
         }
         // Frolova Margarita Alekseevna ZAm-1-23
-        //<//solve task2>
+        
     }
     
 }
