@@ -7,5 +7,6 @@
             Console.WriteLine("Hello, World!");
         }
     }
-// Frolova Margarita Alekseevna ZAm-1-23
+    // Frolova Margarita Alekseevna ZAm-1-23
+    //<//solve task2>
 }
