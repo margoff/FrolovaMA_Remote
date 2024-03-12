@@ -8,5 +8,4 @@
         }
     }
 // Frolova Margarita Alekseevna ZAm-1-23
-// решение 8 задачи
 }
