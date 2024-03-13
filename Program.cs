@@ -9,4 +9,5 @@
     }
     // Frolova Margarita Alekseevna ZAm-1-23
     //<//solve task2>
+    //solve task1
 }
